@@ -1,6 +1,6 @@
 {
   "name": "@hyperlane-xyz/sdk",
-  "version": "25.0.0",
+  "version": "25.1.0-beta.9abab09730d97ac374a324ccba5c5fcf25383a25",
   "description": "The official SDK for the Hyperlane Network",
   "keywords": [
     "Hyperlane",
